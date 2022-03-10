@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added proper go linter
 - Fixed DNS proxy upstream lookup loop
 - Updated the documentation to reflect the changes regarding IPv6
+- Added Mergeable config
 
 ## [v0.4.6]
 
